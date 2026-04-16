@@ -1,0 +1,24 @@
+calculator.py
+  502a5bdee41555a4 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "554c34d0a8dd6dcda86e5339e378e69f44412ca9",
+  "prompts": {
+    "502a5bdee41555a4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cd4ddf78-9521-48ae-b17c-30b39ae67257",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "yogananda",
+      "messages": [],
+      "total_additions": 38,
+      "total_deletions": 0,
+      "accepted_lines": 38,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/987a4e8f66e644dbdcf9e50b6338180bebc647a08ccc42ead67142161e42f5d9"
+    }
+  }
+}
